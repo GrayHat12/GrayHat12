@@ -1,8 +1,4 @@
-<div style="display: flex;">
-    <img src="dp.jpeg" width="48" height="48" style="border-radius: 50%;"/>
-    <strong>HELLO</strong>
-</div>
-
+# <img src="dp.jpeg" style="border-radius: 50%;" width="44" height="44">**Hello**
 ```
     $$$$$$\                           $$\   $$\          $$\     
     $$  __$$\                          $$ |  $$ |         $$ |    
