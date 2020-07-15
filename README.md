@@ -1,6 +1,5 @@
 # <img src="dp.jpeg" style="border-radius: 50%;" width="48" height="48">**Hello**
-
-    ```
+```
     $$$$$$\                           $$\   $$\          $$\     
     $$  __$$\                          $$ |  $$ |         $$ |    
     $$ /  \__|$$$$$$\ $$$$$$\ $$\   $$\$$ |  $$ |$$$$$$\$$$$$$\   
@@ -13,12 +12,11 @@
                             \$$$$$$  |                          
                             \______/                           
     (Dumbass)
-    ```
+```
 
 ### Guidelines
-    Feel free to play around with all public repositories.
-    Any pull requests to fix my mess will be appreciated ╰(*°▽°*)╯
-    Mention my github url to credit me incase you're using a repository
-    Have FUN !!
-
-    ![](meme.jpg)
+Feel free to play around with all public repositories.
+Any pull requests to fix my mess will be appreciated ╰(*°▽°*)╯
+Mention my github url to credit me incase you're using a repository
+Have FUN !!
+![](meme.jpg)
