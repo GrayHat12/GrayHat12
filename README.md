@@ -22,7 +22,7 @@ Any pull requests to fix my mess will be appreciated ╰(*°▽°*)╯
 Mention my github url to credit me incase you're using a repository  
 Have FUN !!  
 ```javascript
-    [...["Have","Fun"],"A","LOT","OF","FUN"];
+[...["Have","Fun"],"A","LOT","OF","FUN"];
 ```  
 ***
 <img src="https://github.com/GrayHat12/GrayHat12/blob/master/meme.jpg" height="100" width="100">
