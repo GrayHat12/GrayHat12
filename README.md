@@ -1,4 +1,4 @@
-# <img src="dp.jpeg" style="border-radius: 50%;" width="44" height="44">**Hello**
+# <img src="dp.jpeg" style="border-radius: 50%;" width="25" height="25">**Hello**
 ```
     $$$$$$\                           $$\   $$\          $$\     
     $$  __$$\                          $$ |  $$ |         $$ |    
