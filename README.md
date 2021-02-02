@@ -16,6 +16,7 @@ $$ |  $$ $$ |    $$  __$$ $$ |  $$ $$ |  $$ $$  __$$ |$$ |$$\
 thinking-cap@grayhat:~$ 
 ```
 <img style="border-radius:10px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=grayhat12&height=270&bg=C6A8DB&padding=10&width=566&skills=Java,JavaScript,TypeScript,Python,C%2B%2B,CSS" />
+<img style="border-radius:10px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=grayhat12&height=150&style=--bg-color:%23C6A8DB;--header-bg-color:%23563D7C;--border-radius:0px&padding=10&width=500" />
 
 ### Guidelines
 Feel free to play around with all public repositories.  
