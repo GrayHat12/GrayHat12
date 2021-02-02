@@ -15,7 +15,7 @@ $$ |  $$ $$ |    $$  __$$ $$ |  $$ $$ |  $$ $$  __$$ |$$ |$$\
 (Dumbass)
 thinking-cap@grayhat:~$ 
 ```
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=grayhat12&height=270&bg=C6A8DB&padding=10&width=566&skills=Java,JavaScript,TypeScript,Python,C%2B%2B,ReactJS,CSS" />
+<img style="border-radius:10px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=grayhat12&height=270&bg=C6A8DB&padding=10&width=566&skills=Java,JavaScript,TypeScript,Python,C%2B%2B,ReactJS,CSS" />
 
 ### Guidelines
 Feel free to play around with all public repositories.  
