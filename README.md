@@ -1,20 +1,9 @@
-# <img src="https://github.com/GrayHat12/GrayHat12/blob/master/dp.jpeg" style="border-radius: 50%;" width="25" height="25">**Hello**
-```console
-thinking-cap@grayhat:~$ banner
-$$$$$$\                           $$\   $$\          $$\     
-$$  __$$\                          $$ |  $$ |         $$ |    
-$$ /  \__|$$$$$$\ $$$$$$\ $$\   $$\$$ |  $$ |$$$$$$\$$$$$$\   
-$$ |$$$$\$$  __$$\\____$$\$$ |  $$ $$$$$$$$ |\____$$\_$$  _|  
-$$ |\_$$ $$ |  \__$$$$$$$ $$ |  $$ $$  __$$ |$$$$$$$ |$$ |    
-$$ |  $$ $$ |    $$  __$$ $$ |  $$ $$ |  $$ $$  __$$ |$$ |$$\ 
-\$$$$$$  $$ |    \$$$$$$$ \$$$$$$$ $$ |  $$ \$$$$$$$ |\$$$$  |
-\______/\__|     \_______|\____$$ \__|  \__|\_______| \____/ 
-                        $$\   $$ |                          
-                        \$$$$$$  |                          
-                        \______/                           
-(Dumbass)
-thinking-cap@grayhat:~$ 
-```
+<div>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=grayhat12" />
+</div>
+<div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=grayhat12" />
+</div>
 
 ### Guidelines
 Feel free to play around with all public repositories.  
