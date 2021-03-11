@@ -1,7 +1,4 @@
-|   |   |
-| ------------ | ------------ |
-| <img alt="GrayHat" title="GrayHat" src="anim_me.png"/>  |  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight" alt="github stats" title="Github Stats"/><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6" alt="language stats" title="language stats"/>
-</div>
+<img alt="GrayHat" width="20%" title="GrayHat" src="anim_me.png"/> <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight" alt="github stats" title="Github Stats"/><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6" alt="language stats" title="language stats"/> </div>
 
 ------------
 
