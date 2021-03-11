@@ -1,14 +1,16 @@
-<div align="center">
+<div style="display:flex">
+<img style="max-width:30%" src="anim_me.png"/><center>
 <img src="https://github-readme-stats.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight"/>
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6" />
+</center>
 </div>
 
 ------------
 
 |   |   |
 | ------------ | ------------ |
-| <img src="anim_me.png" title="Rahul" />  | Feel free to play around with all public repositories. Any pull requests to fix my mess will be appreciated ╰(°▽°)╯. Mention my github url to credit me incase you're using a repository <br> Have FUN !!  |
+| <img style="border-radius:50%" src="/logos/website.png" title="Rahul" />  | Feel free to play around with all public repositories. Any pull requests to fix my mess will be appreciated ╰(°▽°)╯. Mention my github url to credit me incase you're using a repository <br> Have FUN !!  |
 
 ------------
 
