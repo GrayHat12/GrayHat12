@@ -28,17 +28,17 @@
 ------------
 
 <div align="center">
-<a target="_blank" style="margin:10px" href="https://grayhat12.netlify.app/"><img style="border-radius:50%" src="/logos/website.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://grayhat12.netlify.app/"><img style="border-radius:50%" src="/logos/website.png" width="40" alt="website" title="portfolio" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="https://www.linkedin.com/in/grayhat/"><img src="/logos/linkedin.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://www.linkedin.com/in/grayhat/"><img src="/logos/linkedin.png" width="40" alt="linkedin" title="linkedin" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="mailto:grayhathacks10@gmail.com"><img src="/logos/google-plus.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="mailto:grayhathacks10@gmail.com"><img src="/logos/google-plus.png" alt="google plus" title="email" width="40" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="https://twitter.com/gray_rahul"><img src="/logos/twitter.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://twitter.com/gray_rahul"><img src="/logos/twitter.png" alt="twitter" title="Twitter @gray_rahul" width="40" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="https://stackoverflow.com/users/12036506/gray-hat"><img src="/logos/stackoverflow.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://stackoverflow.com/users/12036506/gray-hat"><img alt="stackoverflow" title="stackoverflow gray-hat" src="/logos/stackoverflow.png" width="40" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="https://www.reddit.com/user/GrayHat12"><img src="/logos/reddit.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://www.reddit.com/user/GrayHat12"><img alt="reddit" title="reddit grayhat12" src="/logos/reddit.png" width="40" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="https://www.instagram.com/gray_._hat/"><img src="/logos/instagram.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://www.instagram.com/gray_._hat/"><img src="/logos/instagram.png" alt="instagram" title="instagram @gray_._hat" width="40" /></a>
 </div>
