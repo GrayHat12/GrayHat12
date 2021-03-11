@@ -36,7 +36,7 @@
 &emsp;
 <a target="_blank" style="margin:10px" href="https://twitter.com/gray_rahul"><img src="/logos/twitter.png" width="40" /></a>
 &emsp;
-<a target="_blank" style="margin:10px" href="stackoverflow.com/users/12036506/gray-hat"><img src="/logos/stackoverflow.png" width="40" /></a>
+<a target="_blank" style="margin:10px" href="https://stackoverflow.com/users/12036506/gray-hat"><img src="/logos/stackoverflow.png" width="40" /></a>
 &emsp;
 <a target="_blank" style="margin:10px" href="https://www.reddit.com/user/GrayHat12"><img src="/logos/reddit.png" width="40" /></a>
 &emsp;
