@@ -21,9 +21,9 @@
 
 # 
 
-<center>
+<div align="center"
 <img src="signature.svg" />
-</center>
+</div>
 
 ------------
 
