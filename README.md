@@ -22,7 +22,7 @@
 # 
 
 <div align="center">
-<img src="signature.svg" />
+<img src="sign.svg" />
 </div>
 
 ------------
