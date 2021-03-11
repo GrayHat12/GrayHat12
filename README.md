@@ -1,5 +1,5 @@
 <div style="display:flex">
-<img style="max-width:30%" src="anim_me.png"/><center>
+<img width="30%" src="anim_me.png"/><center>
 <img src="https://github-readme-stats.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight"/>
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6" />
