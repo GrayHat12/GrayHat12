@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <span>Currently Working On : <a target="_blank" href="http://referplease.com/">ReferPlease</a></span>
+            <span>Currently Working On : **Finding a job**
         </td>
     </tr>
 </table>
