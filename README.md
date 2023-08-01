@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <span>Currently Working On : <strong>Completing Graduation</strong>
+            <span>Currently Working On : <strong>That one cool project</strong>
         </td>
     </tr>
 </table>
