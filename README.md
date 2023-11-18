@@ -3,7 +3,10 @@
         <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center">
         <img alt="GrayHat" title="GrayHat" src="anim_me.png"/>
         </td>
-        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="justify"><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" title="Github Stats"/><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true" alt="language stats" title="language stats"/>
+        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="left"><div align="left">
+        <img src="https://github-readme-stats-indol-xi-95.vercel.app/api?username=GrayHat12&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="github stats" title="Github Stats"/>
+        <br />
+        <img src="https://github-readme-stats-indol-xi-95.vercel.app/api/top-langs/?username=GrayHat12&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000" alt="language stats" title="language stats"/>
 </div>
 </td>
     </tr>
