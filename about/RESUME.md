@@ -142,13 +142,6 @@ _2018 - 2022_
 
 Title: Computer Science and Engineering
 
-#### Projects
-
-- Rensselaer Center for Open Source (RCOS)
-  - I was a mentor for RPI's open source program, helping hundreds of students get active in open source comunities
-- MetPetDB
-  - Open source geology database. I helped create the front end and get the project onto modern service architecture
-
 ## Tech
 
 ### Things I'm great at
