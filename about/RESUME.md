@@ -108,7 +108,7 @@ Title: Co-Founder and CTO
 
 We make sure that generational wealth & investments are secured and passed on hassle free.
 
-#### Projects
+## Projects
 
 Note: This is meant to be a short summary. [Much more info on my projects on github](https://github.com/GrayHat12)
 
@@ -144,20 +144,20 @@ Title: Computer Science and Engineering
 
 ## Tech
 
-### Things I'm great at
+#### Things I'm great at
 
 [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Electron](https://www.electronjs.org/), [Python3](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), [Docker](https://www.docker.com/)
 
-### Things I'm good at
+#### Things I'm good at
 
 Java, AWS, [Tauri](https://tauri.app/), [SpringBoot](https://spring.io/projects/spring-boot)
 
-### Things I like a lot (Personal time, no industry applications)
+#### Things I like a lot (Personal time, no industry applications)
 
 [Deno](https://deno.land), [Rust](https://www.rust-lang.org/), [Golang](https://go.dev/)
 
 
-### Contact
+## Contact
 
 - Email: rahul.works.sde@gmail.com
 - Github: [GrayHat12](http://github.com/GrayHat12)
