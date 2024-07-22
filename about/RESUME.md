@@ -83,9 +83,7 @@ ReferPlease aggregates all tech job referrals from across the web to simplify an
 * Enabled user subscriptions via RazorPay integration
 * Developed a Progressive Web App with user Authentication, Authorization for seamless device transition.
 
-### Fridayy AI
-
-> Not active anymore
+### Fridayy AI [fridayy-ai](https://www.linkedin.com/company/fridayy-ai/)
 
 _August 2021 - November 2021_
 
