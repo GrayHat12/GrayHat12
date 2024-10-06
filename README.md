@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <span>Currently Working On : <strong>Nothing, I hate working</strong>
+            <span>Currently Working On : <strong>Various small projects</strong>
         </td>
     </tr>
 </table>
@@ -23,7 +23,7 @@
         <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="center">
         <img style="border-radius:50%" src="/logos/website.png" title="Rahul" />
         </td>
-        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="justify">Just leave the repos alone. Not worth your time. Go away, touch grass. You are insignificant. <br> Have FUN !!</td>
+        <td cellpadding="0%" cellspacing="0%" border="0" style="border-collapse:collapse;border:none" align="justify">Feel free to play around with all public repositories. Any pull requests to fix my mess will be appreciated ╰(°▽°)╯. Mention my github url to credit me incase you're using a repository. <br> Have FUN !!</td>
     </tr>
 </table>
 
